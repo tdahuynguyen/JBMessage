@@ -7,7 +7,7 @@
 //
 
 #import "JBMessage.h"
-#import "AFHTTPSessionManager.h"
+#import <AFNetworking/AFHTTPSessionManager.h>
 
 @class AFHTTPRequestOperationManager;
 @class AFHTTPResponseSerializer;
